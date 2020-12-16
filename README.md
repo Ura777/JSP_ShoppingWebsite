@@ -1,7 +1,7 @@
 # JSP_ShoppingWebsite
 This project use JSP and MySQL to implement sex toys online shopping website with backstage and lots of website functions.
 
-**Thanks for my team member 陳紹宜 to finishing this project together!!!**
+**Thanks for my teammate to finishing this project together!!!**
 
 ## Implement function list
 * Log in/out
